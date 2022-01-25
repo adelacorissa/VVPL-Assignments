@@ -10,3 +10,12 @@ Dokumen terdiri dari :
    - Manual Testing
    - Automated Testing (dengan Tools Katalon)
    - Bug Report
+ 
+ Anggota Kelompok 8 :
+ - Thoriq Putra Renaldi (1301184443)
+ - Yusuf Iqbal Kusuma Yuda (1301184437)
+ - Rizki Amanullah Hakim (1301180522)
+ - Gharyni Nurkhair Mulyono (1301194319)
+ - Arpriansah Yonathan (1301194112)
+ - Adela Corissa (1301190419)
+ - Achmad Rafi Ghifari (1301180478)
